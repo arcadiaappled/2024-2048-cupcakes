@@ -1,6 +1,4 @@
-Cupcakes version of [2048](http://gabrielecirulli.github.io/2048/) game
+Cupcakes version of [2048](http://gabrielecirulli.github.io/2048/) game but it's different because it's 2024 but it's the same
 ========================================================================
 
-Play here: http://0x0800.github.io/2048-CUPCAKES/
-
-[![2048 CUPCAKES](http://oi62.tinypic.com/9u7rkk.jpg)](http://0x0800.github.io/2048-CUPCAKES/)
+Play original 2048 cupcakes here: http://0x0800.github.io/2048-CUPCAKES/
